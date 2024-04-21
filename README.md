@@ -10,7 +10,7 @@
 
 ## Uso
 
-1. **Abrir la calculadora:** Visita [nuestro sitio web](https://www.calculadoraenlinea.com) desde cualquier navegador web.
+1. **Abrir la calculadora:** Visita [nuestro sitio web](https://mrjulianfr.github.io/Calculadora/) desde cualquier navegador web.
 2. **Realizar operaciones:** Utiliza los botones numéricos y de operación en la calculadora para introducir tus operaciones.
 3. **Obtener resultados:** Haz clic en el botón de igual (=) para obtener el resultado de tu operación.
 4. **Borrar valores:** Borralos cuando sean neceserios con (c) y (<-)
